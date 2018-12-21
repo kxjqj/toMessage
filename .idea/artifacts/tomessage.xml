@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tomessage">
+    <output-path>$PROJECT_DIR$/../artifacts/tomessage</output-path>
+    <root id="archive" name="tomessage.jar">
+      <element id="module-output" name="XDMessage" />
+      <element id="artifact" artifact-name="XDMessage:Web exploded" />
+    </root>
+  </artifact>
+</component>
